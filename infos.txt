@@ -1,0 +1,4 @@
+Login via JWT, vai salvar um token de acesso
+Backend em Laravel
+Icones em svg npm install react-native-svg-transformer e tambem -transformer   //modificar a metro.config
+npx react-native run-android //Rodar o projeto
